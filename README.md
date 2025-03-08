@@ -4,7 +4,7 @@
 
 
 > [!IMPORTANT]
-> Ce worker ne fonctionne plus suite à une récente modification de l'architecture de JVC, qui intègre désormais une protection Cloudflare bloquant les requêtes JavaScript. Il n'est actuellement pas prévu que ce soit contourné.
+> **Ce worker ne fonctionne plus suite à une récente modification de l'architecture de JVC, qui intègre désormais une protection Cloudflare bloquant les requêtes JavaScript. Il n'est actuellement pas prévu que ce soit contourné.**
 
 ## Introduction
 
